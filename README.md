@@ -35,3 +35,7 @@ Rowling is a plant disease detection and monitoring system designed for agricult
 This project is licensed under the MIT License.
 
 
+Model weights:
+
+https://drive.google.com/file/d/1P7fhkPXlTGnNXQIeLouVaH4Tm7z5_jkO/view?usp=sharing
+
